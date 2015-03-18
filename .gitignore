@@ -1,0 +1,7 @@
+web/js
+web/stylesheets
+.tmp
+.idea
+*.iml
+bower_components
+node_modules
